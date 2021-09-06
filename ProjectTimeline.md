@@ -1,9 +1,9 @@
 # ProjectTimeline
 ### 9/11/2021
-ETL
-Analyse
-Visualization
+*ETL
+*Analyse
+*Visualization
 
 ### 9/18/2021
-dynamic web page
-SSO
+*dynamic web page
+*SSO
