@@ -6,7 +6,7 @@
 ### Project Coding/Softwares
 
 * Python
-* Tabluae
+* Tableau
 
 ### Data Source
 
