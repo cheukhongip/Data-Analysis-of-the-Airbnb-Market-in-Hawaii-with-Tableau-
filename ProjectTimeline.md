@@ -5,5 +5,5 @@
 * Visualization
 
 ### 9/18/2021
-* dynamic web page
+* Dynamic web page
 * SSO
