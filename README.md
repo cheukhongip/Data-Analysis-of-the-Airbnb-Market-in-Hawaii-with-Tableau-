@@ -1,8 +1,8 @@
-# Data230ProjectGroup6
+# Airbnb Analysis in Tableau
 
 
 ### Project Description
-We analyze Airbnb data in Hawaii and made a dashboard in tableau.
+We analyze Airbnb data in Hawaii and made a dashboard in Tableau.
 
 ### Project Coding/Softwares
 
