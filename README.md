@@ -2,7 +2,7 @@
 
 
 ### Project Description
-We analyzed Airbnb data in Hawaii and made a dashboard in Tableau.
+This project presents an in-depth analysis of Airbnb listings across Hawaii, visualized using Tableau. Key highlights include a comparison of pricing trends across different islands, a breakdown of super host distributions, and insights into pricing fluctuations over time. Dive deep into Hawaii's accommodation landscape, uncovering the dynamics of its most popular home-sharing platform.
 
 ### Project Coding/Softwares
 
