@@ -8,6 +8,7 @@ This project presents an in-depth analysis of Airbnb listings across Hawaii, vis
 
 * Python
 * Tableau
+* SQL
 
 ### Data Source
 You can find all the data in InsideAirbnb.
